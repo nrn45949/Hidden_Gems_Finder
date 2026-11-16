@@ -14,4 +14,20 @@ My app answers three questions:
 3. **Price:** Are the gems cheaper or more expensive, on average, than the most-owned games?
 
 ## Data
-The [Steam Games Dataset](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset) on Kaggle, collected in March 2025. The dataset is shared under the MIT License by its creator, artermiloff. This repo uses `steam_games.csv`, a smaller file made for the course: the
+The [Steam Games Dataset](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset) on Kaggle, collected in March 2025. The dataset is shared under the MIT License by its creator, artermiloff. This repo uses `steam_games.csv`, a smaller file made for the course: the 1,000 games with the most reviews.
+
+## Built with
+- Python and pandas, in Google Colab
+- The CheapShark API (coming soon), used to check whether a gem is currently on sale
+
+## How to run it
+Coming soon
+
+## Example output
+Coming soon
+
+## AI Use Disclosure
+Coming soon
+
+## Author
+Nick
