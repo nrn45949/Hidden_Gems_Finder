@@ -1,6 +1,6 @@
 # Hidden Gems Finder
 
-My app helps a gamer who wants something new decide which lesser-known games are worth buying by surfacing highly rated titles that relatively few people own.
+My app helps a gamer looking for something new decide which lesser-known games are worth buying by finding highly rated games that relatively few people own, and checking whether they're on sale right now.
 
 > A course project for **MIST 4600: Computer Programming in Business** at the University of Georgia's Terry College of Business (Fall 2026).
 
@@ -9,13 +9,9 @@ The user is a gamer looking for their next purchase who is tired of the same blo
 
 ## What it does
 My app answers three questions:
-1. **Which games are the gems?** Games with a high share of positive reviews but a low owner count.
-2. **Which genres hide the most gems?** Grouping the gems by genre to see which categories are full of hidden value and which are mostly blockbusters.
-3. **Are gems a better deal?** Comparing the average price of the gems against the most-owned games.
+1. **Finding the gems:** Which games have a high positive-review percentage but a low owner count?
+2. **Genres:** Which genres hide the most gems, and which are made up mostly of blockbusters?
+3. **Price:** Are the gems cheaper or more expensive, on average, than the most-owned games?
 
 ## Data
-The [Steam Games Dataset](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset) on Kaggle, collected in March 2025. The dataset is shared under the MIT License by its creator, artermiloff. This repo uses `steam_games.csv`, a smaller file made for the course: the 1,000 games with the most reviews.
-
-## Built with
-- Python and pandas, in Google Colab
-- The CheapShark
+The [Steam Games Dataset](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset) on Kaggle, collected in March 2025. The dataset is shared under the MIT License by its creator, artermiloff. This repo uses `steam_games.csv`, a smaller file made for the course: the
